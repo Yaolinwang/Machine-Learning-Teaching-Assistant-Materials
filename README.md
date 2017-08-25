@@ -1,3 +1,10 @@
-# Machine-Learning-Teaching-Assistant-Materials
-I am currently a Teaching Assistant for Machine Learning course at Columbia University.
-These Notebooks are what I prepared for my students. Help them to apply Machine Learning techniques through Python.
+# Columbia University MS. Applied Analytics Machine Learning Course
+
+I worked two semesters as a Teaching Assistant for Machine Learning course for MS.AA program at Columbia University in 2017.
+
+These Notebooks are what I prepared for my students who have no programming backgroud. Help them to apply Machine Learning techniques with Python.
+
+## Notebooks outline:
+1. Python basic. Key concepts in Python, a quick and comprehensive introduction to Python programming.
+2. Pandas and Numpy. Introduction and application of Pandas and Numpy.
+3. Linear regression. Basic linear regression and plot with Python.

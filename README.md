@@ -1,4 +1,4 @@
-# Columbia University MS. Applied Analytics Machine Learning Course
+# Machine Learning Course Python - Columbia University MS. Applied Analytics 
 
 I worked two semesters as a Teaching Assistant for Machine Learning course for MS.AA program at Columbia University in 2017.
 
